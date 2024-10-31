@@ -1,0 +1,24 @@
+Profile Manager v1.6
+
+(C) Ashley Johnson (elbuntu.com) 2014
+
+License: GPL v3
+
+INSTALLATION INSTRUCTIONS
+
+Requirements:
+
+- Buddypress 1.2.7 or higher.
+- Wordpress 2.8 or higher
+
+1. Upload profiles-manager-for-buddypress folder to your Wordpress Plugins folder.
+2. Go to your buddy-press template and search for edit.php under members/single/profile.
+3. Change bp_profile_group_tabs(); with  bp_pm_group_tabs();
+4. Activate the Profiles Manager in wp-admin under plugins.
+5. Go to BPM
+6. Your all set!
+
+CUSTOM PLUGINS
+
+If you would like me to create you a commercial plugin or suggest a new open source 
+plugin please email me at ashley.gary.johnson@gmail.com
